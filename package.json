@@ -1,0 +1,31 @@
+{
+  "name": "oxygen",
+  "version": "1.0.0",
+  "description": "Oxygen Code Youtube Kanalına ait abone rol bot altyapısı",
+  "main": "node oxygen.js",
+  "scripts": {
+    "start": "node oxygen.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "quick.db": "^7.1.2",
+    "wio.db": "^4.0.21"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
